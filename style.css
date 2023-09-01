@@ -10,8 +10,10 @@ div {
 }
 
 #img {
-    border: 10px solid white;
-    width: 100%;
+    border: 5px solid white;
+    height: 300px;
+    width: 300px;
+    margin-left: 60px;
 }
 
 #header1 {
